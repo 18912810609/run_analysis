@@ -1,0 +1,10 @@
+Read files
+Merge the training and the test sets to create one data set.
+Column bind files to get the complete table for test observations 
+Keep only necessary columns, Subject, Activity and columns containing mean in their description 
+Add the Activity for activity type to produce the final test data for observations
+Extracts only the measurements on the mean and standard deviation for each measurement.
+Uses descriptive activity names to name the activities in the data set
+Appropriately labels the data set with descriptive variable names.
+From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+Write out to txt file the tidy data set in the Data folder
